@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wesam</h1>
+<h1 align="center">Hi 👋, I'm Wesam Ahmed</h1>
 <h3 align="center">A data analyzer and teaching assistant</h3>
 
 - 🌱 I’m currently learning **Machine Leaning , Deep Learning ,NLP**
