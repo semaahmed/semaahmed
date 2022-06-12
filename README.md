@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesam Ahmed</h1>
-<h3 align="center">A data analyst and teaching assistant</h3>
+<h3 align="center">A Data Analyst and Teaching Assistant</h3>
 
 - 🌱 I’m currently learning **Machine Leaning , Deep Learning ,NLP**
 
