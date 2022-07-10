@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data analysis**
 
-- 📫 How to reach me **wesamahmed929@yahoo.com**
+- 📫 How to reach me **wesamahmed929@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
